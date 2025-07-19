@@ -17,8 +17,8 @@ This is a part of my Arduino learning journey. THe project uses basic digital ou
 - jumper wires
 
 ## 🔌Circuit
-circuit_photo01.jpg
-circuit_photo02.jpg
+circuit_photo1.jpg
+circuit_photo2.jpg
 
 ## 💾 Code
 See project02_spaceship_interface.ino
