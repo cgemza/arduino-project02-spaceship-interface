@@ -1,6 +1,6 @@
 # arduino-project02-spaceship-interface
-Arduino Project 02: Create a Spaceship Interface using digitalWrite()
-This is a part of my Arduino learning journey. THe project uses basic digital output to turn on/off and blink LEDs. I am working from the "Projects Book" by Arduino 2015.
+Arduino Project 02: Create a Spaceship Interface.
+This is a part of my Arduino learning journey. The project uses basic digital output to turn on/off and blink LEDs. I am working from the "Projects Book" by Arduino 2015.
 
 ## 🧠 Concepts
 - digitalWrite()
